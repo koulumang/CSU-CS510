@@ -1,4 +1,4 @@
-## A1:
+## Tracking:
 
 ### Overview:
 Our project aims to provide a simple and effective way to track objects in real-time using OpenCV in Python. With the help of OpenCV, our application can detect and track the movement of objects within a video feed, and highlight the objects for easier visualization. The project is suitable for a wide range of applications, including security, surveillance, and sports analysis.
