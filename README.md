@@ -7,5 +7,8 @@ This project aims to provide a simple and effective way to match Template object
 ### Number Detection:
 This project aims to find differences in accuracy of classifying MNIST database with a simple Neural Network (Only dense layers) and CNN (dense+ convolution layers)
 
+### ILSVRC:
+This project aims to find differences in accuracy of classifying CIFAR-10 database with a CNN and pretrained CNN.
+
 ## Contributing:
 We welcome contributions from developers who are interested in improving the project. You can submit a pull request with your changes, or open an issue if you have any suggestions or bug reports.
