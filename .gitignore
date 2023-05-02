@@ -1,8 +1,3 @@
 .DS_Store
-Generative Models/images/mnist_0.png
-Generative Models/images/mnist_5000.png
-Generative Models/images/mnist_10000.png
-Generative Models/images/mnist_15000.png
-Generative Models/images/mnist_20000.png
-Generative Models/images/mnist_25000.png
+Generative Models/images
 Generative Models/generator_model.h5
