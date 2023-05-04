@@ -1,3 +1,4 @@
 .DS_Store
 Generative Models/images
 Generative Models/generator_model.h5
+Generative Models/celeba_gan/
