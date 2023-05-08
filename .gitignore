@@ -2,3 +2,4 @@
 Generative Models/images
 Generative Models/generator_model.h5
 Generative Models/celeba_gan/
+Generative Models/generated_img_*.png
